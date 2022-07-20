@@ -1,2 +1,2 @@
 # Desafio de projeto Git/GitHub 
-**REPOSITÓRIO CRIADO PARA IMPLEMENTAR CONTEÚDO DAS AULAS**
+**Repositório criado para implementar conteúdo das aulas**
